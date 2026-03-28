@@ -1,0 +1,6 @@
+theme: jekkyl_theme_minimal
+title: "the Circadia Project"
+description: "Circadia is a multinational project studying the presence of phenomena related to unknown fossil records and the possibilities of future mass extinction events through the study of human brains and subconsciousness."
+url: "https://circadia-project.github.io"
+baseurl: "/"
+author: "the Circadia Project"
